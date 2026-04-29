@@ -1,7 +1,7 @@
 {
   "versionCode": 11,
   "versionName": "2.0",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.0/final-shift-latest.apk",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.0/FinalShift-2.0.apk",
   "sha256": "56bb648b534e0c685c774342b35c7f324195058b906c30930825a87dbc470b98",
   "changelog": "Initial Final Shift 2.0 distribution build.",
   "required": false

@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v1.9/final-shift-latest.apk",
-  "sha256": "24b435576c22cf8dd859d07930798c2bfbeb95f132be27644e6a1356743098ca",
-  "changelog": "Initial neutral update-server 1.9 build. This should report up to date until a newer version is published.",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.0/final-shift-latest.apk",
+  "sha256": "d0de7af20db0a903f496e83f41e8cbd89c4abdd39062edc1d4de57922df9bfbe",
+  "changelog": "Test update delivered through the Final Shift in-app updater.",
   "required": false
 }

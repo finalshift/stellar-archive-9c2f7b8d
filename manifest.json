@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.1.1",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.1/FinalShift-2.1.1.apk",
-  "sha256": "59e267f2f49cf4c45f731516680abc8935817d8c9bc63fc563f7f3bb9ab98b7c",
-  "changelog": "Enlarged team logos on the stream selection screen and made buffer settings wording device-neutral.",
+  "versionCode": 14,
+  "versionName": "2.1.2",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.2/FinalShift-2.1.2.apk",
+  "sha256": "c49833a5577af7341633b9a49f62677aa39768dcc1fc613d703db7152a1ce0c1",
+  "changelog": "Increased stream selector team logos to 1.5x their previous size.",
   "required": false
 }

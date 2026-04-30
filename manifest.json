@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "2.1.3",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.3/FinalShift-2.1.3.apk",
-  "sha256": "8da94cad0a220ec0961f5148220d6ede59d5aa770815d8cb9f992b71eb7dd6ee",
-  "changelog": "Removed scrolling from the stream selector screen and tightened spacing so 2 or 4 feeds fit on one TV page.",
+  "versionCode": 16,
+  "versionName": "2.1.4",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.4/FinalShift-2.1.4.apk",
+  "sha256": "2aceb37e3ab8d1315826e3d35fc824c757f4030879db9d9290f4eb1d593aa6e2",
+  "changelog": "Added a small italic version label to the loading screens.",
   "required": false
 }

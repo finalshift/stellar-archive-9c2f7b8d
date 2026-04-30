@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1/FinalShift-2.1.apk",
-  "sha256": "b17d2179045135c032e3b956cdeea897f614e709df6df9ae71e3c75b62190d2c",
-  "changelog": "Added in-app changelog, phone/tablet launch compatibility, in-place live scoreboard refresh, improved NOT STARTED layout, and cleaner stream selector matchup/feed cards.",
+  "versionCode": 13,
+  "versionName": "2.1.1",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.1/FinalShift-2.1.1.apk",
+  "sha256": "59e267f2f49cf4c45f731516680abc8935817d8c9bc63fc563f7f3bb9ab98b7c",
+  "changelog": "Enlarged team logos on the stream selection screen and made buffer settings wording device-neutral.",
   "required": false
 }

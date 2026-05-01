@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "2.1.6",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.6/FinalShift-2.1.6.apk",
-  "sha256": "b92e2f79fb1f386aea725a9274e48bb68d4d50b4df395440655edface8798922",
-  "changelog": "Stream selector now refreshes game scores, status, and stream times while it stays open.",
+  "versionCode": 20,
+  "versionName": "2.1.8",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.8/FinalShift-2.1.8.apk",
+  "sha256": "ac25000c6e9ee196355107a951732bd508da9c7d52e1542a75600f57eb345cd4",
+  "changelog": "Restored larger stream selector team logos while keeping more room around the center game-status indicator.",
   "required": false
 }

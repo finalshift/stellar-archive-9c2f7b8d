@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "2.2.1",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.1/FinalShift-2.2.1.apk",
-  "sha256": "76225df89dbbed8ca5cc57150c96dcba5061a215ac8e1b069883fcdfb488dff7",
-  "changelog": "Added compact landscape layouts so Settings and About fit better on smaller tablets and phones without affecting the TV layout.",
+  "versionCode": 26,
+  "versionName": "2.2.2",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.2/FinalShift-2.2.2.apk",
+  "sha256": "33f9a70d23892ce636b98b1634a7d201313d68f7d5ac81307b69d85f854ea7f4",
+  "changelog": "Fixed top navigation focus so left/right stays in the menu until Select or Down is pressed. Improved compact About layout so account and update controls do not clip on smaller tablets.",
   "required": false
 }

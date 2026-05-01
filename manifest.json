@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "2.2.2",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.2/FinalShift-2.2.2.apk",
-  "sha256": "33f9a70d23892ce636b98b1634a7d201313d68f7d5ac81307b69d85f854ea7f4",
-  "changelog": "Fixed top navigation focus so left/right stays in the menu until Select or Down is pressed. Improved compact About layout so account and update controls do not clip on smaller tablets.",
+  "versionCode": 27,
+  "versionName": "2.2.3",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.3/FinalShift-2.2.3.apk",
+  "sha256": "d9cb0de27fc02c9234b2c2ed0cdf7ed85589bbb8d84b9e102fd8786e38efc550",
+  "changelog": "Restored top nav auto-loading while keeping focus in the nav until Select or Down moves into the page. Added more button height and tighter button text handling for compact About layouts.",
   "required": false
 }

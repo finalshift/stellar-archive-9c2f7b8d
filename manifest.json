@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "2.1.11",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.11/FinalShift-2.1.11.apk",
-  "sha256": "49659bd4204eac2b81247c9cda1e3e00828bc2a57253e6f12e2ed6ea99461849",
-  "changelog": "Added automatic cleanup for old downloaded update APKs so app cache does not grow over time.",
+  "versionCode": 24,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2/FinalShift-2.2.apk",
+  "sha256": "92fe9924683226fba7c23c5174e5069fc360d5d3244e13afcd2fcfe13a2f376e",
+  "changelog": "Top navigation now switches screens immediately on tap or TV remote focus instead of requiring a second click.",
   "required": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.1.5",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.5/FinalShift-2.1.5.apk",
-  "sha256": "9c3b735145744dd21cd8f37b9ad24c9d395b89e235896b5666d3bfb2c5478698",
-  "changelog": "Moved the loading version label farther right, added it to login, added optional saved username/password, and matched stream selector scores to the main tile style.",
+  "versionCode": 18,
+  "versionName": "2.1.6",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.6/FinalShift-2.1.6.apk",
+  "sha256": "b92e2f79fb1f386aea725a9274e48bb68d4d50b4df395440655edface8798922",
+  "changelog": "Stream selector now refreshes game scores, status, and stream times while it stays open.",
   "required": false
 }

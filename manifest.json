@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2/FinalShift-2.2.apk",
-  "sha256": "92fe9924683226fba7c23c5174e5069fc360d5d3244e13afcd2fcfe13a2f376e",
-  "changelog": "Top navigation now switches screens immediately on tap or TV remote focus instead of requiring a second click.",
+  "versionCode": 25,
+  "versionName": "2.2.1",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.1/FinalShift-2.2.1.apk",
+  "sha256": "76225df89dbbed8ca5cc57150c96dcba5061a215ac8e1b069883fcdfb488dff7",
+  "changelog": "Added compact landscape layouts so Settings and About fit better on smaller tablets and phones without affecting the TV layout.",
   "required": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "2.1.8",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.8/FinalShift-2.1.8.apk",
-  "sha256": "ac25000c6e9ee196355107a951732bd508da9c7d52e1542a75600f57eb345cd4",
-  "changelog": "Restored larger stream selector team logos while keeping more room around the center game-status indicator.",
+  "versionCode": 21,
+  "versionName": "2.1.9",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.9/FinalShift-2.1.9.apk",
+  "sha256": "dc611a5a41ffb7fa73ee1c472d415c1492fbce4b0f749751ee4e5626217065b3",
+  "changelog": "Enlarged the stream selector game-status indicator and removed the score dash between teams.",
   "required": false
 }

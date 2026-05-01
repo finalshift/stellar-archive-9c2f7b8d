@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "2.1.9",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.9/FinalShift-2.1.9.apk",
-  "sha256": "dc611a5a41ffb7fa73ee1c472d415c1492fbce4b0f749751ee4e5626217065b3",
-  "changelog": "Enlarged the stream selector game-status indicator and removed the score dash between teams.",
+  "versionCode": 22,
+  "versionName": "2.1.10",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.10/FinalShift-2.1.10.apk",
+  "sha256": "95e0b8f84b8178cd6c9d8c67584003849b5d81f837423fb3308bb23e3210aaf8",
+  "changelog": "Stream selector now refreshes immediately when returning from playback instead of waiting for the next timer tick.",
   "required": false
 }

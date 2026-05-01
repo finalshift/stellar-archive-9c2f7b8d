@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "2.1.10",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.10/FinalShift-2.1.10.apk",
-  "sha256": "95e0b8f84b8178cd6c9d8c67584003849b5d81f837423fb3308bb23e3210aaf8",
-  "changelog": "Stream selector now refreshes immediately when returning from playback instead of waiting for the next timer tick.",
+  "versionCode": 23,
+  "versionName": "2.1.11",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.1.11/FinalShift-2.1.11.apk",
+  "sha256": "49659bd4204eac2b81247c9cda1e3e00828bc2a57253e6f12e2ed6ea99461849",
+  "changelog": "Added automatic cleanup for old downloaded update APKs so app cache does not grow over time.",
   "required": false
 }

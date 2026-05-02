@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "2.2.3",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.3/FinalShift-2.2.3.apk",
-  "sha256": "d9cb0de27fc02c9234b2c2ed0cdf7ed85589bbb8d84b9e102fd8786e38efc550",
-  "changelog": "Restored top nav auto-loading while keeping focus in the nav until Select or Down moves into the page. Added more button height and tighter button text handling for compact About layouts.",
+  "versionCode": 28,
+  "versionName": "2.2.4",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.4/FinalShift-2.2.4.apk",
+  "sha256": "a756eea2fe254f45f67c0165270f1905a5998c74080a01a3eaa6a43aa0b46067",
+  "changelog": "Fixed single-game days so the game tile keeps the normal half-width card size instead of stretching across the full row.",
   "required": false
 }

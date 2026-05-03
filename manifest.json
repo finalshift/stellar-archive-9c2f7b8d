@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "2.2.4",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.4/FinalShift-2.2.4.apk",
-  "sha256": "a756eea2fe254f45f67c0165270f1905a5998c74080a01a3eaa6a43aa0b46067",
-  "changelog": "Fixed single-game days so the game tile keeps the normal half-width card size instead of stretching across the full row.",
+  "versionCode": 29,
+  "versionName": "2.2.5",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.5/FinalShift-2.2.5.apk",
+  "sha256": "7b7d930aed0aff589631882af425b12aa21dbba89f560284c08167b42b044c3b",
+  "changelog": "Tightened stream selector spacing so four available streams fit without the bottom row being clipped.",
   "required": false
 }

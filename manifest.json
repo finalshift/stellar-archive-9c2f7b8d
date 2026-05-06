@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "2.2.7",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.7/FinalShift-2.2.7.apk",
-  "sha256": "e02f7f7596ff767fe1e2981623466e40d5d61dc05d985e993ce706dba10734e3",
-  "changelog": "Reworked Cast into a normal Final Shift control so TV remotes and touch screens can open the Cast chooser reliably.",
+  "versionCode": 32,
+  "versionName": "2.2.8",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.8/FinalShift-2.2.8.apk",
+  "sha256": "b8b30274b2f9db4550b6aa8b40f186f4f22cc29c17973954195c59b0784b93c7",
+  "changelog": "Cleaned up the player info panel with matchup-only title, frame rate, active buffer mode, and no stream host text.",
   "required": false
 }

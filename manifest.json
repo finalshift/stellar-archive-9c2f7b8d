@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "2.2.5",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.5/FinalShift-2.2.5.apk",
-  "sha256": "7b7d930aed0aff589631882af425b12aa21dbba89f560284c08167b42b044c3b",
-  "changelog": "Tightened stream selector spacing so four available streams fit without the bottom row being clipped.",
+  "versionCode": 30,
+  "versionName": "2.2.6",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.6/FinalShift-2.2.6.apk",
+  "sha256": "dee81e122f9c183a4487045051f66b84b0698035d292ecd8d9a6ff51555e6f53",
+  "changelog": "Added a Google Cast button to native playback and improved TV remote handling so Cast can be opened from player controls.",
   "required": false
 }

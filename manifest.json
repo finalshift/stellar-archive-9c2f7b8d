@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "2.2.9",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.9/FinalShift-2.2.9.apk",
-  "sha256": "dbd114d7b39594bcf58d3ccd271a924ba1ae293cfc597bd1a0a6878c673fa322",
-  "changelog": "Improves Cast controls with direct Stop Cast handling and safer startup retry for newly connected receivers.",
+  "versionCode": 34,
+  "versionName": "2.2.10",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.10/FinalShift-2.2.10.apk",
+  "sha256": "dd130f6737aeaa0f460aad6dda6944b16f86a3de347d67646f9156b7f974504a",
+  "changelog": "Limits Cast controls to phones and tablets so Android TV devices keep a clean playback screen.",
   "required": false
 }

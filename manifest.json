@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "2.2.8",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.8/FinalShift-2.2.8.apk",
-  "sha256": "b8b30274b2f9db4550b6aa8b40f186f4f22cc29c17973954195c59b0784b93c7",
-  "changelog": "Cleaned up the player info panel with matchup-only title, frame rate, active buffer mode, and no stream host text.",
+  "versionCode": 33,
+  "versionName": "2.2.9",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.9/FinalShift-2.2.9.apk",
+  "sha256": "dbd114d7b39594bcf58d3ccd271a924ba1ae293cfc597bd1a0a6878c673fa322",
+  "changelog": "Improves Cast controls with direct Stop Cast handling and safer startup retry for newly connected receivers.",
   "required": false
 }

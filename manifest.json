@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "2.2.10",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.10/FinalShift-2.2.10.apk",
-  "sha256": "dd130f6737aeaa0f460aad6dda6944b16f86a3de347d67646f9156b7f974504a",
-  "changelog": "Limits Cast controls to phones and tablets so Android TV devices keep a clean playback screen.",
+  "versionCode": 35,
+  "versionName": "2.2.11",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.11/FinalShift-2.2.11.apk",
+  "sha256": "6f925d255b353057c0d6a2b4536c0a77cd69e84fce7e1ec4578636d0dd6d4fc5",
+  "changelog": "Improves phone and tablet scaling for Settings and About so compact screens avoid clipped controls.",
   "required": false
 }

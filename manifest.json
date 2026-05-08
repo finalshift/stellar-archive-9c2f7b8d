@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "2.2.11",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.11/FinalShift-2.2.11.apk",
-  "sha256": "6f925d255b353057c0d6a2b4536c0a77cd69e84fce7e1ec4578636d0dd6d4fc5",
-  "changelog": "Improves phone and tablet scaling for Settings and About so compact screens avoid clipped controls.",
+  "versionCode": 36,
+  "versionName": "2.2.12",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.12/FinalShift-2.2.12.apk",
+  "sha256": "78d69be67126e6e25cbacecfd1f8191e5eefa629d8983f5ee1f3c5ef423b7d0a",
+  "changelog": "Fixes compact phone and tablet game-card focus styling so selected tiles no longer show square grey corners.",
   "required": false
 }

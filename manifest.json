@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "2.2.12",
-  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.2.12/FinalShift-2.2.12.apk",
-  "sha256": "78d69be67126e6e25cbacecfd1f8191e5eefa629d8983f5ee1f3c5ef423b7d0a",
-  "changelog": "Fixes compact phone and tablet game-card focus styling so selected tiles no longer show square grey corners.",
+  "versionCode": 37,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/finalshift/stellar-archive-9c2f7b8d/releases/download/v2.3/FinalShift-2.3.apk",
+  "sha256": "5ec015589a9c34d3f4529b304a4f7306be2b08038025cca9a8ecd8cd9e85bf4a",
+  "changelog": "Stable release: moves live game status into the bottom-left tile info row, removes square focus artifacts from rounded controls, improves compact loading-screen version placement, and prevents compact buffer cards from clipping when selected.",
   "required": false
 }
